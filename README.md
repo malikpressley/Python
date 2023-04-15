@@ -28,4 +28,4 @@ To launch the notebook, open the terminal and run the command:
 
 -   importing data: jupyter notebook importData.ipynb
 
--generate CrossTabs: jupyter notebook createCrossTabs.ipynb
+-   generate CrossTabs: jupyter notebook createCrossTabs.ipynb
