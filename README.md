@@ -10,7 +10,8 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 The data set that compromises of information on:
 
 -   orders
--   products -departments
+-   products 
+-   departments
 
 ### Tools
 
